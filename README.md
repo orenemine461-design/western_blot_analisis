@@ -20,6 +20,8 @@ It detects fluorescent protein bands, measures their brightness and area, and pr
 Emine ÖREN
 Molecular Biology and Genetics student
 
+## Example Image
+![Western Blot](SDS-PAGE.jpg)
 ## Author
 GitHub:
 https://github.com/orenemine461-desing
